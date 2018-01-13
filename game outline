@@ -1,0 +1,86 @@
+print = "Name: Gordon Freeman"
+
+print = "Date: 1/10/2018"
+
+print = "Location: WD High School"
+
+print = "It's the afternoon, a period after lunch, and you walk down to your 6th period science class."
+
+print = "You sit down in your seat waiting for Mrs. Bowles to begin class."
+
+print = "Ms. Bowles is a little late today, so you close your eyes for a little bit"
+
+print = "Bowles: Alright class, today I have a math problem for you to solve."
+
+print = "Bowles: If you get it wrong, you will be kicked out of school."
+
+print = "Bowles: If you get it right, you'll have an open for the rest of the period."
+
+print = "Bowles: Is the number I'm thinking of odd or even?"
+
+print = "What do you answer?"
+
+ch1 = str(input("What do you choose?" [odd/even]: "))
+
+# CHOOSES ODD
+
+if ch1 in ['odd', 'Odd', 'ODD']:
+
+print = "You chose odd!"
+
+print = "Pain sears across your face as Ms. Bowles smacks you with a ruler."
+
+print = "YOU CHOSE WRONG TODAY SON! YOU'RE EXPELLED"
+
+# CHOOSES EVEN
+
+else:
+
+print = "You chose even!"
+
+print = "Pain sears across your face as Ms. Bowles smacks you with a ruler."
+
+print = "YOU CHOSE WRONG TODAY SON! YOU'RE EXPELLED"
+
+
+
+
+print = "You jolt awake from your dream, with the whole class staring at you."
+
+print = "Kid behind you: What a nice kid"
+
+print = "Bowles: Jeez Gordon, fall asleep like that again and I'll have to whack you."
+
+print ("The bell rings, you gather your stuff and hurry out of class.")
+
+print ("As you gather your things at your locker, you see a ruler on the floor.")
+
+ch2 = str(input("Do you pick it up? [y/n] ")) 
+
+if ch2 in ['y' 'Y' 'Yes' 'yes']
+
+print("You have taken the ruler!")
+
+ruler = 1
+
+#doesnt take ruler
+
+else:
+
+print ("You did not take the ruler")
+
+ruler = 0
+
+print ("You then walk to the locker room to prepare for basketball practice."
+
+print ("You walk out into the parking lot after basketball and the sun has already set.")
+
+print ("You start to feel sad as you remember Will Griner broke your ankles")
+
+print ("5 times with nasty tim hardaway-shamgod-nutmeg combo")
+
+print ("Your ears start to bleed as you hear a terrible, horrible, wretched sound")
+
+print ("You look around to see Ms. Klein, on top of a car, singing.")
+
+print ("You: Could you stop Ms.Klein? My ears are bleeding.")
